@@ -1,4 +1,4 @@
-# Lab 1 Single Layer Perceptron
+# CS3807 Deep Learning Laboratory - Experiment 1
 
 This project implements a **Single Layer Perceptron** from scratch using Python.
 
