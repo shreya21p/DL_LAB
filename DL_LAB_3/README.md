@@ -1,4 +1,4 @@
-```markdown
+
 # Lab 3 CIFAR-10 Image Classification with Convolutional Neural Networks (CNNs)
 
 ## Overview
@@ -80,4 +80,3 @@ Two simple CNN models are constructed, identical except for the number of filter
 *   **Model Training**: As expected, accuracy tends to increase and loss decreases over epochs.
 *   **Evaluation**: The final CNN model achieves a decent accuracy on CIFAR-10, with some classes performing better than others (e.g., 'automobile', 'ship' vs. 'cat', 'dog').
 *   **Filter Count**: Increasing the number of filters allows the model to learn more complex and diverse features, generally leading to higher accuracy but at the cost of increased training time and computational resources.
-```
